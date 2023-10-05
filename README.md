@@ -10,6 +10,6 @@ This project shows my proficiency in transforming raw data into actionable insig
 
 ## Overview of Amazon Sales Data
 
-## [Google Sheets Link:](https://docs.google.com/spreadsheets/d/1dPCLMQnKEvmRSAyeJVLQPJ0i47adoaPyIXBXk13vCbA/edit?usp=sharing)
+## [Google Sheets Link](https://docs.google.com/spreadsheets/d/1dPCLMQnKEvmRSAyeJVLQPJ0i47adoaPyIXBXk13vCbA/edit?usp=sharing)
 
 
