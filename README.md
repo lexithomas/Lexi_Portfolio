@@ -9,7 +9,8 @@ This project shows my proficiency in transforming raw data into actionable insig
 *	Utilized advanced Excel functions for in-depth analysis.
 
 ## Overview of Amazon Sales Data
-![](Images/Amazon_1.png)
+![Amazon_1](https://github.com/lexithomas/Lexi_Portfolio/assets/53840632/3b60004d-9255-4285-a074-672f144773bf)
+
 
 ## [Google Sheets Link](https://docs.google.com/spreadsheets/d/1dPCLMQnKEvmRSAyeJVLQPJ0i47adoaPyIXBXk13vCbA/edit?usp=sharing)
 
