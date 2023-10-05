@@ -8,9 +8,9 @@ This project shows my proficiency in transforming raw data into actionable insig
 *	Assessed product performance and customer satisfaction.
 *	Utilized advanced Excel functions for in-depth analysis.
 
-##Overview of Amazon Sales Data
+## Overview of Amazon Sales Data
 
-[Google Sheets Link:]
+# [Google Sheets Link:]
 (https://docs.google.com/spreadsheets/d/1dPCLMQnKEvmRSAyeJVLQPJ0i47adoaPyIXBXk13vCbA/edit?usp=sharing)
 
 
