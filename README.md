@@ -3,10 +3,10 @@
 
  # Project 1: Analyzing Amazon Sales Data: Sales Trends and Ratings
 This project shows my proficiency in transforming raw data into actionable insights, showcasing my ability to analyze ratings and identify areas for improvement.
-*	Data was taken from Amazon sales dataset.
+*	Data was taken from the Amazon sales dataset.
 *	I analyzed Amazon sales data to extract actionable insights.
-*	Assessed product performance and customer satisfaction.
-*	Utilized advanced Excel functions for in-depth analysis.
+* I assessed product performance and customer satisfaction.
+*	Utilizing advanced Excel functions for in-depth analysis.
 
 ## Overview of Amazon Sales Data
 ![Amazon_1](https://github.com/lexithomas/Lexi_Portfolio/assets/53840632/3b60004d-9255-4285-a074-672f144773bf)
