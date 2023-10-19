@@ -1,5 +1,4 @@
 # Lexi_Portfolio
- Analyst Portfolio
 
  # Project 1: Analyzing Amazon Sales Data: Sales Trends and Ratings
 This project shows my proficiency in transforming raw data into actionable insights, showcasing my ability to analyze ratings and identify areas for improvement.
