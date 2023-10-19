@@ -8,7 +8,7 @@ This project shows my proficiency in transforming raw data into actionable insig
 * I assessed product performance and customer satisfaction.
 *	Utilizing advanced Excel functions for in-depth analysis.
 
-*	## Situation
+	## Situation
 
 The e-commerce industry has been a focal point for understanding consumer behavior, market trends, and product performance. Amazon, as one of the largest online marketplaces, serves as a rich repository of data. The goal of this project was to analyze Amazon sales data, sourced from Kaggle, to provide actionable insights for businesses and researchers alike.
 
