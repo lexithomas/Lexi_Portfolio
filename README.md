@@ -25,8 +25,6 @@ For the in-depth analysis, I utilized a dataset from Kaggle featuring diverse Am
 - Highlighted the top-performing categories based on quantifiable metrics like sales and ratings.
 - Applied descriptive statistics to summarize essential metrics, specifically focusing on calculating the mean, median, minimum, and maximum for various product categories.
 
-![Amazon_Data_2.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/30981e9e-6ab2-497f-af7a-19dbdd5a8a61/08b7c2a5-edca-41a1-a1a0-5106c91fcda1/Amazon_Data_2.png)
-
 ## Result
 
 The analysis yielded actionable insights that could serve as a cornerstone for data-driven decision-making in e-commerce settings. Specifically, I was able to:
