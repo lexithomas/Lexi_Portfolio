@@ -9,9 +9,14 @@ This project shows my proficiency in transforming raw data into actionable insig
 *	Utilizing advanced Excel functions for in-depth analysis.
 
 ## Overview of Amazon Sales Data
-![Amazon_1](https://github.com/lexithomas/Lexi_Portfolio/assets/53840632/3b60004d-9255-4285-a074-672f144773bf)
-![Amazon_2](https://github.com/lexithomas/Lexi_Portfolio/assets/53840632/e53c47f3-c2d8-48e3-9d6a-825d87f9f391)
-![Amazon_3](https://github.com/lexithomas/Lexi_Portfolio/assets/53840632/2d399f91-f8e1-4feb-8912-d5c42659f4f5)
+![Amazon_Data_1](https://github.com/lexithomas/Lexi_Portfolio/assets/53840632/ae8e7069-803e-47f2-b5c6-d4e4c285b8e8)
+![Amazon_Data_2](https://github.com/lexithomas/Lexi_Portfolio/assets/53840632/bae941fd-17e5-4510-aa11-189a838de0ff)
+![Amaon_Data_3](https://github.com/lexithomas/Lexi_Portfolio/assets/53840632/bf9fa60f-eeb7-4e09-95b0-c506bc12eac9)
+![Amazon_Data_4](https://github.com/lexithomas/Lexi_Portfolio/assets/53840632/d8da1a80-35bf-4c57-a062-0b40a52a2db6)
+![Amazon_Data_5](https://github.com/lexithomas/Lexi_Portfolio/assets/53840632/78458636-0536-4ea8-91bb-6fe2b2c9c284)
+
+
+
 
 
 
