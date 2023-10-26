@@ -26,7 +26,7 @@ For the in-depth analysis, I utilized a dataset from Kaggle featuring diverse Am
 
 ## Result
 
-The analysis yielded actionable insights that could serve as a cornerstone for data-driven decision-making in e-commerce settings. Specifically, I was able to:
+The analysis showed actionable insights that could serve as a cornerstone for data-driven decision-making in e-commerce settings. Specifically, I was able to:
 
 - Isolate top-performing and underperforming categories based on objective metrics.
 - Assess customer satisfaction metrics across a variety of product categories.
@@ -34,7 +34,7 @@ The analysis yielded actionable insights that could serve as a cornerstone for d
 
 ## Reflection
 
-This project reinforced the critical importance of data analytics in e-commerce and showcased my proficiency in conducting detailed data analysis using advanced Excel functions. In future iterations of this project, I aim to include machine learning algorithms to predict sales trends and customer preferences more precisely.
+This project reinforced the importance of data analytics in e-commerce and showcased my proficiency in conducting detailed data analysis using advanced Excel functions. In future iterations of this project, I aim to include machine learning algorithms to predict sales trends and customer preferences more precisely.
 
 ## Overview of Amazon Sales Data
 ![Amazon_Data_1](https://github.com/lexithomas/Lexi_Portfolio/assets/53840632/ae8e7069-803e-47f2-b5c6-d4e4c285b8e8)
