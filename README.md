@@ -47,4 +47,4 @@ This project reinforced the critical importance of data analytics in e-commerce 
 
 ## [Google Sheets Link](https://docs.google.com/spreadsheets/d/1ls3Q2ZTmk7NAky3BFbEXQl43fTW4WkICEaI590QswKo/edit?usp=sharing)
 
-## [Tableau Link](https://public.tableau.com/app/profile/lexithomas/vizzes)
+## [Tableau Public Link](https://public.tableau.com/app/profile/lexithomas/vizzes)
