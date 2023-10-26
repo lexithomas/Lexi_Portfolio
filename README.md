@@ -50,4 +50,6 @@ This project reinforced the critical importance of data analytics in e-commerce 
 
 ## [Google Sheets Link](https://docs.google.com/spreadsheets/d/1ls3Q2ZTmk7NAky3BFbEXQl43fTW4WkICEaI590QswKo/edit?usp=sharing)
 
+![Top 5 Profitable Categories](https://github.com/lexithomas/Lexi_Portfolio/assets/53840632/2ef714fb-cd9b-40ef-92a7-3b3c127809c2)
 
+## [Tableau Link](https://public.tableau.com/app/profile/lexithomas/vizzes)
