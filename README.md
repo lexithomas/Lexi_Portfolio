@@ -85,6 +85,6 @@ This project reinforced the importance of data analytics in e-commerce and showc
 
 ![Top 5 Profitable Categories](https://github.com/lexithomas/Lexi_Portfolio/assets/53840632/2ef714fb-cd9b-40ef-92a7-3b3c127809c2)
 
-## [Google Sheets Link](https://docs.google.com/spreadsheets/d/1ls3Q2ZTmk7NAky3BFbEXQl43fTW4WkICEaI590QswKo/edit?usp=sharing)
+## [Analyzing Amazon Sales Data - Google Sheets Link](https://docs.google.com/spreadsheets/d/1ls3Q2ZTmk7NAky3BFbEXQl43fTW4WkICEaI590QswKo/edit?usp=sharing)
 
-## [Tableau Public Link](https://public.tableau.com/app/profile/lexithomas/vizzes)
+## [Tableau Public Link](https://public.tableau.com/app/profile/lexithomas/viz/Top5ProfitableCategories-AnalyzingAmazonSalesDataSalesTrendsandRatings/Top5ProfitableCategories)
