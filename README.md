@@ -38,7 +38,7 @@ This project will shows the potential of using everyday technology for large-sca
 ## [Comparing Male and Female Groups Daily Step Counts - Presentation Link](https://onedrive.live.com/view.aspx?resid=7CC79AECB984863E!79521&ithint=file%2cpptx&wdo=2&authkey=!ALEzt59SYY9tla8)
 ## [Comparing Male and Female Groups Daily Step Counts - PDF Link](https://drive.google.com/file/d/1bgInjZB6mEbUWRdSc-MHjO9HAQBi5NxZ/view?usp=sharing)
 
-
+<br/><br/>
 
  # Project 2: Analyzing Amazon Sales Data: Sales Trends and Ratings
 This project shows my proficiency in transforming raw data into actionable insights, showcasing my ability to analyze ratings and identify areas for improvement in Excel.
