@@ -17,7 +17,7 @@ Utilizing the Apple Health application's data, I executed the following steps:
 * Seperated the data by gender to define independent groups for analysis.
 * Calculated average daily steps for each gender group.
 * Performed an independent-samples t-test to evaluate the significance of the observed differences.
-* Analyzed the t-test results to confirm or refute the initial hypothesis.
+* Analyzed the t-test results.
 
 ## Result
 
