@@ -45,7 +45,7 @@ This project shows my proficiency in transforming raw data into actionable insig
 *	Data was taken from the Amazon sales dataset.
 *	I analyzed Amazon sales data to extract actionable insights.
 * I assessed product performance and customer satisfaction.
-*	Utilizing advanced Excel functions for in-depth analysis.
+*	Utilized advanced Excel functions for in-depth analysis.
 
 ## Situation
 
@@ -53,11 +53,11 @@ The e-commerce industry has been a focal point for understanding consumer behavi
 
 ## Task
 
-I was responsible for a comprehensive analysis of Amazon sales data. My role spanned assessing product performance and customer satisfaction across different categories, with the use of advanced Excel functions for detailed analysis.
+I was responsible for a comprehensive analysis of Amazon sales data. My role was to assess product performance and customer satisfaction across different categories, with the use of advanced Excel functions for detailed analysis.
 
 ## Action
 
-For the in-depth analysis, I utilized a dataset from Kaggle featuring diverse Amazon sales data. Employing advanced Excel functions, I:
+For the in-depth analysis, I utilized a dataset from Kaggle featuring Amazon sales data. Employing advanced Excel functions, I:
 
 - Computed total sales for each category, offering insights into their market performance.
 - Inspected ratings within categories to gauge customer satisfaction levels.
