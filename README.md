@@ -1,7 +1,45 @@
 # Lexi_Portfolio
 
- # Project 1: Analyzing Amazon Sales Data: Sales Trends and Ratings
-This project shows my proficiency in transforming raw data into actionable insights, showcasing my ability to analyze ratings and identify areas for improvement.
+# Project 1: Comparing Male and Female Groups Daily Step Counts
+The objective of this project is to conduct a statistical analysis, using an independent-samples t-test, to determine if there is a significant difference in the average daily step count between males and females. This will be achieved by processing and analyzing step count data from the Apple Health app within a 9-month timeframe, ensuring results are accurate to a 95% confidence interval.
+
+## Situation
+
+The increasing availability of health and fitness data through applications like Apple's Health app provides a unique opportunity to understand physical activity patterns across different demographics. This project leverages Apple Health data to analyze daily step counts, aiming to uncover gender-based trends and contribute to public health knowledge.
+
+## Task
+
+I will perform a detailed comparative analysis of step count data, focusing on gender differences. My responsibilities include data cleaning, preparing datasets for analysis, conducting the t-test, and interpreting the results.
+
+## Action 
+
+Utilizing the Apple Health application's data, I executed the following steps:
+* Seperated the data by gender to define independent groups for analysis.
+* Calculated average daily steps for each gender group.
+* Performed an independent-samples t-test to evaluate the significance of the observed differences.
+* Analyzed the t-test results to confirm or refute the initial hypothesis.
+
+## Result
+
+The analysis concluded statistically significant insights into the step count differences by gender, which could inform public health initiatives and personal fitness programs. 
+
+## Reflection
+
+This project will shows the potential of using everyday technology for large-scale health data analysis and how it can influence public health decisions. It will also highlights my analytical skills, particularly in statistical methods and health data interpretation. For future projects, I aim to incorporate more variables, such as age and BMI, to create a more comprehensive understanding of physical activity patterns.
+
+## Overview of Male and Female Groups Step Counts
+![Gender_Walking_1](https://github.com/lexithomas/Lexi_Portfolio/assets/53840632/b9a8ff4f-a77c-4e09-85c1-92d63527976e)
+![Gender_Walking_2](https://github.com/lexithomas/Lexi_Portfolio/assets/53840632/2366342a-ae5d-4cf1-8deb-1fbe7f9c8611)
+![Gender_Walking_3](https://github.com/lexithomas/Lexi_Portfolio/assets/53840632/a53e8526-6ef4-4b4d-a7d4-22a19d6522ac)
+![Gender_Walking_4](https://github.com/lexithomas/Lexi_Portfolio/assets/53840632/633a3486-e882-45d1-b926-6765e390aa08)
+![Gender_Walking_5](https://github.com/lexithomas/Lexi_Portfolio/assets/53840632/20403512-8289-45c4-9d8f-157c053a651a)
+![Gender_Walking_7](https://github.com/lexithomas/Lexi_Portfolio/assets/53840632/a3975483-484a-4dbd-a7fc-495cb0a6d3c4)
+
+## [Comparing Male and Female Groups Daily Step Counts - Presentation Link](https://onedrive.live.com/view.aspx?resid=7CC79AECB984863E!79521&ithint=file%2cpptx&wdo=2&authkey=!ALEzt59SYY9tla8)
+## [Comparing Male and Female Groups Daily Step Counts - PDF Link](https://drive.google.com/file/d/1bgInjZB6mEbUWRdSc-MHjO9HAQBi5NxZ/view?usp=sharing)
+
+ # Project 2: Analyzing Amazon Sales Data: Sales Trends and Ratings
+This project shows my proficiency in transforming raw data into actionable insights, showcasing my ability to analyze ratings and identify areas for improvement in Excel.
 *	Data was taken from the Amazon sales dataset.
 *	I analyzed Amazon sales data to extract actionable insights.
 * I assessed product performance and customer satisfaction.
@@ -20,7 +58,7 @@ I was responsible for a comprehensive analysis of Amazon sales data. My role spa
 For the in-depth analysis, I utilized a dataset from Kaggle featuring diverse Amazon sales data. Employing advanced Excel functions, I:
 
 - Computed total sales for each category, offering insights into their market performance.
-- Scrutinized ratings within categories to gauge customer satisfaction levels.
+- Inspected ratings within categories to gauge customer satisfaction levels.
 - Highlighted the top-performing categories based on quantifiable metrics like sales and ratings.
 - Applied descriptive statistics to summarize essential metrics, specifically focusing on calculating the mean, median, minimum, and maximum for various product categories.
 
