@@ -25,7 +25,7 @@ The analysis concluded statistically significant insights into the step count di
 
 ## Reflection
 
-This project will shows the potential of using everyday technology for large-scale health data analysis and how it can influence public health decisions. It will also highlights my analytical skills, particularly in statistical methods and health data interpretation. For future projects, I aim to incorporate more variables, such as age and BMI, to create a more comprehensive understanding of physical activity patterns.
+This project shows the potential of using everyday technology for large-scale health data analysis and how it can influence public health decisions. It will also highlights my analytical skills, particularly in statistical methods and health data interpretation. For future projects, I aim to incorporate more variables, such as age and BMI, to create a more comprehensive understanding of physical activity patterns.
 
 ## Overview of Male and Female Groups Step Counts
 ![Gender_Walking_1](https://github.com/lexithomas/Lexi_Portfolio/assets/53840632/b9a8ff4f-a77c-4e09-85c1-92d63527976e)
