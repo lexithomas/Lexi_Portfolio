@@ -68,9 +68,9 @@ For the in-depth analysis, I utilized a dataset from Kaggle featuring diverse Am
 
 The analysis showed actionable insights that could serve as a cornerstone for data-driven decision-making in e-commerce settings. Specifically, I was able to:
 
-- Isolate top-performing and underperforming categories based on objective metrics.
-- Assess customer satisfaction metrics across a variety of product categories.
-- Uncover patterns and trends valuable for future marketing strategies.
+- Isolated top-performing and underperforming categories based on objective metrics.
+- Assessed customer satisfaction metrics across a variety of product categories.
+- Uncovered patterns and trends valuable for future marketing strategies.
 
 ## Reflection
 
