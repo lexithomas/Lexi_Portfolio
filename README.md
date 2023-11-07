@@ -31,7 +31,7 @@ This project shows the potential of using everyday technology for large-scale he
 ![Gender_Walking_1](https://github.com/lexithomas/Lexi_Portfolio/assets/53840632/b9a8ff4f-a77c-4e09-85c1-92d63527976e)
 ![Gender_Walking_2](https://github.com/lexithomas/Lexi_Portfolio/assets/53840632/2366342a-ae5d-4cf1-8deb-1fbe7f9c8611)
 ![Gender_Walking_3](https://github.com/lexithomas/Lexi_Portfolio/assets/53840632/a53e8526-6ef4-4b4d-a7d4-22a19d6522ac)
-![Gender_Walking_4](https://github.com/lexithomas/Lexi_Portfolio/assets/53840632/633a3486-e882-45d1-b926-6765e390aa08)
+![Gender_Walking_4](https://github.com/lexithomas/Lexi_Portfolio/assets/53840632/e3ebcb75-eb7f-4b47-9cdb-2155540292fa)
 ![Gender_Walking_5](https://github.com/lexithomas/Lexi_Portfolio/assets/53840632/20403512-8289-45c4-9d8f-157c053a651a)
 ![Gender_Walking_7](https://github.com/lexithomas/Lexi_Portfolio/assets/53840632/a3975483-484a-4dbd-a7fc-495cb0a6d3c4)
 
