@@ -1,7 +1,7 @@
 # Lexi_Portfolio
 
 # Project 1: Comparing Male and Female Groups Daily Step Counts
-The objective of this project is to conduct a statistical analysis, using an independent-samples t-test, to determine if there is a significant difference in the average daily step count between males and females. This will be achieved by processing and analyzing step count data from the Apple Health app within a 9-month timeframe.
+This project aims to conduct a statistical analysis using an independent-sample t-test to determine if there is a significant difference in the average daily step count between males and females. This will be achieved by processing and analyzing step count data from the Apple Health app within a 9-month timeframe.
 
 ## Situation
 
