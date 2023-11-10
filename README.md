@@ -1,6 +1,6 @@
 # Lexi_Portfolio
 
-# Project 1: Comparing Male and Female Groups Daily Step Counts
+# Comparing Male and Female Groups Daily Step Counts
 This project aims to conduct a statistical analysis using an independent-sample t-test to determine if there is a significant difference in the average daily step count between males and females. This will be achieved by processing and analyzing step count data from the Apple Health app within a 9-month timeframe.
 
 ## Situation
@@ -40,7 +40,7 @@ This project shows the potential of using everyday technology for large-scale he
 
 <br/><br/>
 
- # Project 2: Analyzing Amazon Sales Data: Sales Trends and Ratings
+ # Analyzing Amazon Sales Data: Sales Trends and Ratings
 This project shows my proficiency in transforming raw data into actionable insights, showcasing my ability to analyze ratings and identify areas for improvement in Excel.
 *	Data was taken from the Amazon sales dataset.
 *	I analyzed Amazon sales data to extract actionable insights.
