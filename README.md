@@ -71,7 +71,7 @@ This project shows the potential of using everyday technology for large-scale he
 ![Gender_Walking_7](https://github.com/lexithomas/Lexi_Portfolio/assets/53840632/a3975483-484a-4dbd-a7fc-495cb0a6d3c4)
 
 ## [Comparing Male and Female Groups Daily Step Counts - Presentation Link](https://onedrive.live.com/view.aspx?resid=7CC79AECB984863E!79521&ithint=file%2cpptx&wdo=2&authkey=!ALEzt59SYY9tla8)
-## [Comparing Male and Female Groups Daily Step Counts - PDF Link](https://drive.google.com/file/d/1WXzxoyL2DU2JjCK8JhODeBV1XIOvZSDz/view?usp=drive_link)
+## [Comparing Male and Female Groups Daily Step Counts - PDF Link](https://drive.google.com/file/d/1eFsjSLxmxryR7cWIYVvz1p4GbWqQlhxb/view?usp=sharing)
 
 <br/><br/>
 
