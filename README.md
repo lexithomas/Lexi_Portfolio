@@ -30,7 +30,7 @@ This project highlights the potential of data-driven insights in understanding l
 ![Analysis_9](https://github.com/lexithomas/Lexi_Portfolio/assets/53840632/94555ae5-7141-4e51-a931-aaa74dd569a4)
 ![Analysis_10](https://github.com/lexithomas/Lexi_Portfolio/assets/53840632/165ba8af-53c3-4b69-bf30-7386dccd58f3)
 
-## [An Analysis of Post-5 P.M. Step Counts - Remote vs. Traditional Work - Presentation Link]([https://onedrive.live.com/view.aspx?resid=7CC79AECB984863E!79521&ithint=file%2cpptx&wdo=2&authkey=!ALEzt59SYY9tla8](https://1drv.ms/p/s!Aj6GhLnsmsd8hO1u4Q1n2mv1SgbZrA))
+## [An Analysis of Post-5 P.M. Step Counts - Remote vs. Traditional Work - Presentation Link](https://1drv.ms/p/s!Aj6GhLnsmsd8hO1u4Q1n2mv1SgbZrA)
 ## [An Analysis of Post-5 P.M. Step Counts - Remote vs. Traditional Work - PDF Link](https://drive.google.com/file/d/1JzZEk1R7EjkoQKIIape7QufXRMATc4Tq/view?usp=drive_link)
 
 <br/><br/>
