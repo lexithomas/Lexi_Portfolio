@@ -3,21 +3,26 @@
 # An Analysis of Post-5 P.M. Step Counts - Remote vs. Traditional Work
 
 ## Situation
+
 The project aims to understand how different work environments (remote vs. traditional in-person work) influence physical activity levels, specifically focusing on step counts post-5 P.M. 
 
 ## Task
-•	Analyze and compare daily step counts post-5 P.M. in remote and traditional work settings.
-•	Responsibilities include collecting step count data, data cleaning, and statistical analysis.
+
+Analyze and compare daily step counts post-5 P.M. in remote and traditional work settings.
+Responsibilities include collecting step count data, data cleaning, and statistical analysis.
 
 ## Action
+
 •	Collected daily step count data for a year, with participants experiencing both remote and traditional work environments.
 •	Conducted a detailed analysis of step counts post-5 P.M. for both work settings.
 •	Applied appropriate statistical methods to compare and understand the differences in physical activity levels in the two settings.
 
 ## Result
+
 The study aims to provide insights into how work environment affects physical activity, specifically steps taken post-5 P.M. The findings could inform workplace policies and individual health strategies, emphasizing the importance of activity in different work settings.
 
 ## Reflection
+
 This project highlights the potential of data-driven insights in understanding lifestyle impacts due to work environments. It underscores the importance of considering work settings in health and wellness strategies and can guide future research to include other factors such as age, gender, or type of occupation.
 
 ## Overview of Post-5 P.M. Step Counts - Remote vs. Traditional Work
