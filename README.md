@@ -14,9 +14,7 @@ Responsibilities include collecting step count data, data cleaning, and statisti
 ## Action
 
 •	Collected daily step count data for a year, with participants experiencing both remote and traditional work environments.
-
 •	Conducted a detailed analysis of step counts post-5 P.M. for both work settings.
-
 •	Applied appropriate statistical methods to compare and understand the differences in physical activity levels in the two settings.
 
 ## Result
