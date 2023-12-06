@@ -20,7 +20,7 @@ The study aims to provide insights into how work environment affects physical ac
 ## Reflection
 This project highlights the potential of data-driven insights in understanding lifestyle impacts due to work environments. It underscores the importance of considering work settings in health and wellness strategies and can guide future research to include other factors such as age, gender, or type of occupation.
 
-## An Analysis of Post-5 P.M. Step Counts - Remote vs. Traditional Work
+## Post-5 P.M. Step Counts - Remote vs. Traditional Work
 ![Analysis_2](https://github.com/lexithomas/Lexi_Portfolio/assets/53840632/a27fffb9-b5ff-4e9e-bd66-a573e7c9054f)
 ![Analysis_3](https://github.com/lexithomas/Lexi_Portfolio/assets/53840632/23e0bc28-6a45-4007-b9d2-c6f1eb4bf348)
 ![Analysis_4](https://github.com/lexithomas/Lexi_Portfolio/assets/53840632/d4f77c78-0aed-4d27-96d6-9ca50a0c7370)
