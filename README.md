@@ -1,5 +1,47 @@
 # Lexi_Portfolio
 
+# Time Series Analysis in R - Honeypot Attacks
+
+## Situation
+
+The project dives into understanding cyberattacks through the analysis of honeypot data, aiming to unveil patterns in attack occurrences based on time.
+
+## Task 
+
+Analyze and compare the frequency of cyber attacks across different hours of the day using honeypot data. Responsibilities include collecting and processing attack data, conducting statistical analysis, and visualizing attack patterns.
+
+## Action 
+
+The project involved gathering data from honeypots, focusing on timestamped attack logs and subsequent analysis steps:
+
+* Acquired honeypot data, specifically "dionaeaClean2.xlsx," detailing attack timestamps.
+* Processed and formatted timestamps into POSIXct format for accurate time-based analysis.
+* Extracted hourly data from timestamps, creating a new column for easier analysis.
+* Utilized the dplyr package to aggregate data by hour, calculating attack counts per hour for insights.
+* Visualized attack frequency using ggplot2 to create graphical representations of attack patterns by the hour.
+
+## Results
+
+Through analysis, the project uncovered insights:
+
+* Identified a significant surge in cyber attacks during evening hours, indicating a potential vulnerability window.
+* Surprising finding: The unexpected high frequency of attacks during evening hours could pose increased vulnerabilities during these times.
+* Expected outcome: Anticipated lower attack frequency during standard business hours was observed, aligning with typical security expectations.
+
+## Reflection
+
+This project shows the importance of time-based analysis in cybersecurity. The findings emphasize the need for defenses during specific timeframes susceptible to increased attack frequencies. It also highlights the need for continuous monitoring and adaptation of security measures.
+
+## Overview of Honeypot Attacks
+![Time_Series](https://github.com/lexithomas/Lexi_Portfolio/assets/53840632/ec8545fc-45d0-4b1d-9343-86a9ed477e28)
+![Time_Series_2](https://github.com/lexithomas/Lexi_Portfolio/assets/53840632/b6f3c42a-79b9-4bb8-bd1c-7b5763f37be0)
+![Time_Series_3](https://github.com/lexithomas/Lexi_Portfolio/assets/53840632/416a739e-a63d-4ee9-aee9-0ea3dcf679f3)
+![Time_Series_4](https://github.com/lexithomas/Lexi_Portfolio/assets/53840632/4104a7ee-b6ca-4307-9945-c270265d5f66)
+![Time_Series_5](https://github.com/lexithomas/Lexi_Portfolio/assets/53840632/6dd24042-ef09-45fc-8ed7-129f02db0764)
+![Time_Series_6](https://github.com/lexithomas/Lexi_Portfolio/assets/53840632/1e114bd2-d41e-410f-a2df-36b3422ae369)
+
+<br/><br/>
+
 # An Analysis of Post-5 P.M. Step Counts - Remote vs. Traditional Work
 
 ## Situation
