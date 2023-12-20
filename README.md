@@ -4,7 +4,7 @@
 
 ## Situation
 
-The project dives into understanding cyberattacks through the analysis of honeypot data, aiming to unveil patterns in attack occurrences based on time.
+The project seeks to understand cyberattacks through the analysis of honeypot data, aiming to unveil patterns in attack occurrences based on time.
 
 ## Task 
 
