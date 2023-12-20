@@ -40,6 +40,9 @@ This project shows the importance of time-based analysis in cybersecurity. The f
 ![Time_Series_5](https://github.com/lexithomas/Lexi_Portfolio/assets/53840632/6dd24042-ef09-45fc-8ed7-129f02db0764)
 ![Time_Series_6](https://github.com/lexithomas/Lexi_Portfolio/assets/53840632/1e114bd2-d41e-410f-a2df-36b3422ae369)
 
+## [Time Series Analysis in R - Honeypot Attacks - Presentation Link](https://1drv.ms/p/s!Aj6GhLnsmsd8hO1_qysyPKnN1Hc11w)
+## [Time Series Analysis in R - Honeypot Attacks - PDF Link](https://drive.google.com/file/d/12rg2zGbc13l8pZIBws18yjibOai5p8Mo/view?usp=sharing)
+
 <br/><br/>
 
 # An Analysis of Post-5 P.M. Step Counts - Remote vs. Traditional Work
