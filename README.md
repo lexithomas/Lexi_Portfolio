@@ -22,7 +22,7 @@ The project involved gathering data from honeypots, focusing on timestamped atta
 
 ## Results
 
-Through analysis, the project uncovered insights:
+Through analysis, the project uncovered:
 
 * Identified a significant surge in cyber attacks during evening hours, indicating a potential vulnerability window.
 * Surprising finding: The unexpected high frequency of attacks during evening hours could pose increased vulnerabilities during these times.
