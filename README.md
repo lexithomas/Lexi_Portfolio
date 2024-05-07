@@ -1,5 +1,45 @@
 # Lexi_Portfolio
 
+# An Analysis of Post-5 P.M. Step Counts - Remote vs. Traditional Work
+
+## Situation
+
+The project aims to understand how different work environments (remote vs. traditional in-person work) influence physical activity levels, specifically focusing on step counts post-5 P.M. 
+
+## Task
+
+Analyze and compare daily step counts post-5 P.M. in remote and traditional work settings.
+Responsibilities include collecting step count data, data cleaning, and statistical analysis.
+
+## Action
+
+* Collected daily step count data for a year, with participants experiencing both remote and traditional work environments.
+* Conducted a detailed analysis of step counts post-5 P.M. for both work settings.
+* Applied appropriate statistical methods to compare and understand the differences in physical activity levels in the two settings.
+
+## Result
+
+The study aims to provide insights into how work environment affects physical activity, specifically steps taken post-5 P.M. The findings could inform workplace policies and individual health strategies, emphasizing the importance of activity in different work settings.
+
+## Reflection
+
+This project highlights the potential of data-driven insights in understanding lifestyle impacts due to work environments. It underscores the importance of considering work settings in health and wellness strategies and can guide future research to include other factors such as age, gender, or type of occupation.
+
+## Overview of Post-5 P.M. Step Counts - Remote vs. Traditional Work
+![Analysis_2](https://github.com/lexithomas/Lexi_Portfolio/assets/53840632/a27fffb9-b5ff-4e9e-bd66-a573e7c9054f)
+![Analysis_3](https://github.com/lexithomas/Lexi_Portfolio/assets/53840632/23e0bc28-6a45-4007-b9d2-c6f1eb4bf348)
+![Analysis_4](https://github.com/lexithomas/Lexi_Portfolio/assets/53840632/d4f77c78-0aed-4d27-96d6-9ca50a0c7370)
+![Analysis_5](https://github.com/lexithomas/Lexi_Portfolio/assets/53840632/2be30517-5a03-4317-9919-bb6353045abf)
+![Analysis_6](https://github.com/lexithomas/Lexi_Portfolio/assets/53840632/7a79d8c3-b3b5-43ad-8721-21268fc095ee)
+![Analysis_8](https://github.com/lexithomas/Lexi_Portfolio/assets/53840632/b5677205-9e99-4904-970c-e2dfdcbc2a00)
+![Analysis_9](https://github.com/lexithomas/Lexi_Portfolio/assets/53840632/94555ae5-7141-4e51-a931-aaa74dd569a4)
+![Analysis_10](https://github.com/lexithomas/Lexi_Portfolio/assets/53840632/165ba8af-53c3-4b69-bf30-7386dccd58f3)
+
+## [An Analysis of Post-5 P.M. Step Counts - Remote vs. Traditional Work - Presentation Link](https://1drv.ms/p/s!Aj6GhLnsmsd8hO1u4Q1n2mv1SgbZrA)
+## [An Analysis of Post-5 P.M. Step Counts - Remote vs. Traditional Work - PDF Link](https://drive.google.com/file/d/1JzZEk1R7EjkoQKIIape7QufXRMATc4Tq/view?usp=drive_link)
+
+<br/><br/>
+
 # Time Series Analysis in R - Honeypot Attacks
 
 ## Situation
@@ -42,46 +82,6 @@ This project shows the importance of time-based analysis in cybersecurity. The f
 
 ## [Time Series Analysis in R - Honeypot Attacks - Presentation Link](https://1drv.ms/p/s!Aj6GhLnsmsd8hO1_qysyPKnN1Hc11w)
 ## [Time Series Analysis in R - Honeypot Attacks - PDF Link](https://drive.google.com/file/d/12rg2zGbc13l8pZIBws18yjibOai5p8Mo/view?usp=sharing)
-
-<br/><br/>
-
-# An Analysis of Post-5 P.M. Step Counts - Remote vs. Traditional Work
-
-## Situation
-
-The project aims to understand how different work environments (remote vs. traditional in-person work) influence physical activity levels, specifically focusing on step counts post-5 P.M. 
-
-## Task
-
-Analyze and compare daily step counts post-5 P.M. in remote and traditional work settings.
-Responsibilities include collecting step count data, data cleaning, and statistical analysis.
-
-## Action
-
-* Collected daily step count data for a year, with participants experiencing both remote and traditional work environments.
-* Conducted a detailed analysis of step counts post-5 P.M. for both work settings.
-* Applied appropriate statistical methods to compare and understand the differences in physical activity levels in the two settings.
-
-## Result
-
-The study aims to provide insights into how work environment affects physical activity, specifically steps taken post-5 P.M. The findings could inform workplace policies and individual health strategies, emphasizing the importance of activity in different work settings.
-
-## Reflection
-
-This project highlights the potential of data-driven insights in understanding lifestyle impacts due to work environments. It underscores the importance of considering work settings in health and wellness strategies and can guide future research to include other factors such as age, gender, or type of occupation.
-
-## Overview of Post-5 P.M. Step Counts - Remote vs. Traditional Work
-![Analysis_2](https://github.com/lexithomas/Lexi_Portfolio/assets/53840632/a27fffb9-b5ff-4e9e-bd66-a573e7c9054f)
-![Analysis_3](https://github.com/lexithomas/Lexi_Portfolio/assets/53840632/23e0bc28-6a45-4007-b9d2-c6f1eb4bf348)
-![Analysis_4](https://github.com/lexithomas/Lexi_Portfolio/assets/53840632/d4f77c78-0aed-4d27-96d6-9ca50a0c7370)
-![Analysis_5](https://github.com/lexithomas/Lexi_Portfolio/assets/53840632/2be30517-5a03-4317-9919-bb6353045abf)
-![Analysis_6](https://github.com/lexithomas/Lexi_Portfolio/assets/53840632/7a79d8c3-b3b5-43ad-8721-21268fc095ee)
-![Analysis_8](https://github.com/lexithomas/Lexi_Portfolio/assets/53840632/b5677205-9e99-4904-970c-e2dfdcbc2a00)
-![Analysis_9](https://github.com/lexithomas/Lexi_Portfolio/assets/53840632/94555ae5-7141-4e51-a931-aaa74dd569a4)
-![Analysis_10](https://github.com/lexithomas/Lexi_Portfolio/assets/53840632/165ba8af-53c3-4b69-bf30-7386dccd58f3)
-
-## [An Analysis of Post-5 P.M. Step Counts - Remote vs. Traditional Work - Presentation Link](https://1drv.ms/p/s!Aj6GhLnsmsd8hO1u4Q1n2mv1SgbZrA)
-## [An Analysis of Post-5 P.M. Step Counts - Remote vs. Traditional Work - PDF Link](https://drive.google.com/file/d/1JzZEk1R7EjkoQKIIape7QufXRMATc4Tq/view?usp=drive_link)
 
 <br/><br/>
 
