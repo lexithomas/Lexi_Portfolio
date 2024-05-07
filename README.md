@@ -2,6 +2,16 @@
 
 # An Analysis of Post-5 P.M. Step Counts - Remote vs. Traditional Work
 
+## Research Writing Sample
+
+This study focuses on understanding how active individuals are after work hours by comparing the walking patterns of two participants transitioning between remote work and the office setting. According to Owen (2010), “Compared with our parents or grandparents, we are spending increasing amounts of time in environments that not only limit physical activity but require prolonged sitting—at work, at home, and in our cars and communities. Work sites, schools, homes, and public spaces have been (and continue to be) re-engineered in ways that minimize human movement and muscular activity. These changes have a dual effect on human behavior: people move less and sit more.” In recent times, sedentary lifestyles have become increasingly prevalent, with individuals demonstrating low daily physical activity levels. This project aims to understand the impact of remote work on physical activity compared to traditional work settings. 
+
+With more people working from home, examining how this change might affect our health is essential. Research studies have shown the health risks of sedentary behavior, which include adverse cardiovascular and metabolic health effects. By understanding how remote work can be linked to low physical activity, we can use these insights for strategies to create more active work environments, policies, and programs. This study will observe the participants' walking patterns for one year. Both participants will work remotely for six months and monitor their walking patterns. Following that, for six months, both participants will switch to working in an office setting. This research will track their daily step counts after 5 p.m. when most people have completed their workday.
+
+<br/><br/>
+
+# An Analysis of Post-5 P.M. Step Counts - Remote vs. Traditional Work
+
 ## Situation
 
 The project aims to understand how different work environments (remote vs. traditional in-person work) influence physical activity levels, specifically focusing on step counts post-5 P.M. 
